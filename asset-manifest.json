@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todoRedux/static/css/main.bd5ea8ed.chunk.css",
+    "main.js": "/todoRedux/static/js/main.4bd8c657.chunk.js",
+    "main.js.map": "/todoRedux/static/js/main.4bd8c657.chunk.js.map",
+    "runtime-main.js": "/todoRedux/static/js/runtime-main.dec75326.js",
+    "runtime-main.js.map": "/todoRedux/static/js/runtime-main.dec75326.js.map",
+    "static/js/2.9791878d.chunk.js": "/todoRedux/static/js/2.9791878d.chunk.js",
+    "static/js/2.9791878d.chunk.js.map": "/todoRedux/static/js/2.9791878d.chunk.js.map",
+    "index.html": "/todoRedux/index.html",
+    "precache-manifest.0edcb51d6c0846e4a092434cb0a1ffc3.js": "/todoRedux/precache-manifest.0edcb51d6c0846e4a092434cb0a1ffc3.js",
+    "service-worker.js": "/todoRedux/service-worker.js",
+    "static/css/main.bd5ea8ed.chunk.css.map": "/todoRedux/static/css/main.bd5ea8ed.chunk.css.map",
+    "static/js/2.9791878d.chunk.js.LICENSE": "/todoRedux/static/js/2.9791878d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dec75326.js",
+    "static/js/2.9791878d.chunk.js",
+    "static/css/main.bd5ea8ed.chunk.css",
+    "static/js/main.4bd8c657.chunk.js"
+  ]
+}
