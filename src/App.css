@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.text-Undo
+
+{  text-decoration: line-through}
+
+
+.text-normal
+{  text-decoration: normal}
+
+
